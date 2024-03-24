@@ -7,14 +7,14 @@ Token Generator is a simple JavaScript utility for generating random tokens of v
 You can install Token Generator via npm:
 
 ```bash
-npm install @maoltech/generateotp
+npm install maoltech-generate-otp
 ```
 
 ## Usage
 Import tokenGenerator from the package and use the generateToken method to generate tokens
 
 ```bash
-import { tokenGenerator } from '@maoltech/token-generator';
+import { tokenGenerator } from 'maoltech-generate-otp';
 
 // Generate a numeric token of length 8
 const numericToken = tokenGenerator.generateToken(8, 'numeric');
