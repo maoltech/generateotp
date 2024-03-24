@@ -14,7 +14,7 @@ npm install @maoltech/generateotp
 Import tokenGenerator from the package and use the generateToken method to generate tokens
 
 ```bash
-import { tokenGenerator } from '@your-username/token-generator';
+import { tokenGenerator } from '@maoltech/token-generator';
 
 // Generate a numeric token of length 8
 const numericToken = tokenGenerator.generateToken(8, 'numeric');
