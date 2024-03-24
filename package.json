@@ -1,0 +1,12 @@
+{
+  "name": "generateotp",
+  "version": "1.0.0",
+  "description": "Can be used to generate token for one time verification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "maoltech",
+  "license": "ISC"
+}
