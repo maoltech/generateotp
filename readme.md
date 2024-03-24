@@ -41,3 +41,5 @@ type: The type of characters to be included in the token. Possible values are 'n
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## Github Repository
+https://github.com/maoltech/maoltech-generate-otp
